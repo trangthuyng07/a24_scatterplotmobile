@@ -182,8 +182,8 @@ function _chart(d3,data)
   legend.append("text")
     .attr("x", -5)
     .attr("y", legendHeight + 20)
-    .style("font-size", "11px")
-    .style("text-anchor", "start")
+    .style("font-size", "10px")
+    .style("text-anchor", "end")
     .text("R.O.I.");
 
   return svg.node();
