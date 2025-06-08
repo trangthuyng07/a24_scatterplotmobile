@@ -176,11 +176,11 @@ function _chart(d3,data)
     .style("fill", "url(#legend-gradient)");
 
   legend.append("g")
-    .attr("transform", `translate(-6, 0)`)
+    .attr("transform", `translate(-14, 0)`)
     .call(legendAxis);
 
   legend.append("text")
-    .attr("x", 5)
+    .attr("x", -10)
     .attr("y", legendHeight + 20)
     .style("font-size", "10px")
     .style("text-anchor", "end")
