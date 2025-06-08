@@ -180,7 +180,7 @@ function _chart(d3,data)
     .call(legendAxis);
 
   legend.append("text")
-    .attr("x", -5)
+    .attr("x", -30)
     .attr("y", legendHeight + 20)
     .style("font-size", "10px")
     .style("text-anchor", "end")
