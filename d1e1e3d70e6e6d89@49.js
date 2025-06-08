@@ -66,7 +66,7 @@ function _chart(d3,data)
     .attr("x", width / 2)
     .attr("y", height - 15)
     .attr("text-anchor", "middle")
-    .style("font-size", "14px")
+    .style("font-size", "12px")
     .text("Budget (in millions)");
 
   svg.append("text")
