@@ -1,0 +1,261 @@
+[
+  {
+    "title":"Moonlight",
+    "budget":4000000.0,
+    "revenue":65046687.0,
+    "profit":61046687.0,
+    "ROI":1526.167175
+  },
+  {
+    "title":"It Comes at Night",
+    "budget":5000000.0,
+    "revenue":19280931.0,
+    "profit":14280931.0,
+    "ROI":285.61862
+  },
+  {
+    "title":"mid90s",
+    "budget":1700000.0,
+    "revenue":9303022.0,
+    "profit":7603022.0,
+    "ROI":447.2365882353
+  },
+  {
+    "title":"The Zone of Interest",
+    "budget":15000000.0,
+    "revenue":52631884.0,
+    "profit":37631884.0,
+    "ROI":250.8792266667
+  },
+  {
+    "title":"Uncut Gems",
+    "budget":19000000.0,
+    "revenue":50023780.0,
+    "profit":31023780.0,
+    "ROI":163.2830526316
+  },
+  {
+    "title":"Eighth Grade",
+    "budget":2000000.0,
+    "revenue":13539709.0,
+    "profit":11539709.0,
+    "ROI":576.98545
+  },
+  {
+    "title":"Bodies Bodies Bodies",
+    "budget":3000000.0,
+    "revenue":13900000.0,
+    "profit":10900000.0,
+    "ROI":363.3333333333
+  },
+  {
+    "title":"Waves",
+    "budget":6000000.0,
+    "revenue":2576990.0,
+    "profit":-3423010.0,
+    "ROI":-57.0501666667
+  },
+  {
+    "title":"The Green Knight",
+    "budget":15000000.0,
+    "revenue":18887953.0,
+    "profit":3887953.0,
+    "ROI":25.9196866667
+  },
+  {
+    "title":"C'mon C'mon",
+    "budget":8300000.0,
+    "revenue":4300000.0,
+    "profit":-4000000.0,
+    "ROI":-48.1927710843
+  },
+  {
+    "title":"Past Lives",
+    "budget":12000000.0,
+    "revenue":28126646.0,
+    "profit":16126646.0,
+    "ROI":134.3887166667
+  },
+  {
+    "title":"White Noise",
+    "budget":100000000.0,
+    "revenue":71476.0,
+    "profit":-99928524.0,
+    "ROI":-99.928524
+  },
+  {
+    "title":"X",
+    "budget":1000000.0,
+    "revenue":15113105.0,
+    "profit":14113105.0,
+    "ROI":1411.3105
+  },
+  {
+    "title":"Men",
+    "budget":6500000.0,
+    "revenue":11152071.0,
+    "profit":4652071.0,
+    "ROI":71.5703230769
+  },
+  {
+    "title":"The Whale",
+    "budget":3000000.0,
+    "revenue":55101305.0,
+    "profit":52101305.0,
+    "ROI":1736.7101666667
+  },
+  {
+    "title":"Beau Is Afraid",
+    "budget":35000000.0,
+    "revenue":12337378.0,
+    "profit":-22662622.0,
+    "ROI":-64.7503485714
+  },
+  {
+    "title":"Dream Scenario",
+    "budget":10000000.0,
+    "revenue":14114415.0,
+    "profit":4114415.0,
+    "ROI":41.14415
+  },
+  {
+    "title":"The Iron Claw",
+    "budget":15900000.0,
+    "revenue":40130232.0,
+    "profit":24230232.0,
+    "ROI":152.3913962264
+  },
+  {
+    "title":"Problemista",
+    "budget":12000000.0,
+    "revenue":2503154.0,
+    "profit":-9496846.0,
+    "ROI":-79.1403833333
+  },
+  {
+    "title":"I Saw the TV Glow",
+    "budget":10000000.0,
+    "revenue":5396508.0,
+    "profit":-4603492.0,
+    "ROI":-46.03492
+  },
+  {
+    "title":"Marcel the Shell with Shoes On",
+    "budget":6000000.0,
+    "revenue":6909209.0,
+    "profit":909209.0,
+    "ROI":15.1534833333
+  },
+  {
+    "title":"The Legend of Ochi",
+    "budget":10000000.0,
+    "revenue":4588865.0,
+    "profit":-5411135.0,
+    "ROI":-54.11135
+  },
+  {
+    "title":"Civil War",
+    "budget":50000000.0,
+    "revenue":126542249.0,
+    "profit":76542249.0,
+    "ROI":153.084498
+  },
+  {
+    "title":"Dicks: The Musical",
+    "budget":8000000.0,
+    "revenue":1472114.0,
+    "profit":-6527886.0,
+    "ROI":-81.598575
+  },
+  {
+    "title":"Love Lies Bleeding",
+    "budget":10000000.0,
+    "revenue":12778225.0,
+    "profit":2778225.0,
+    "ROI":27.78225
+  },
+  {
+    "title":"Pearl",
+    "budget":1000000.0,
+    "revenue":10139416.0,
+    "profit":9139416.0,
+    "ROI":913.9416
+  },
+  {
+    "title":"The Front Room",
+    "budget":3500000.0,
+    "revenue":3165361.0,
+    "profit":-334639.0,
+    "ROI":-9.5611142857
+  },
+  {
+    "title":"MaXXXine",
+    "budget":1000000.0,
+    "revenue":22057160.0,
+    "profit":21057160.0,
+    "ROI":2105.716
+  },
+  {
+    "title":"Y2K",
+    "budget":15000000.0,
+    "revenue":4210306.0,
+    "profit":-10789694.0,
+    "ROI":-71.9312933333
+  },
+  {
+    "title":"Babygirl",
+    "budget":20000000.0,
+    "revenue":60934894.0,
+    "profit":40934894.0,
+    "ROI":204.67447
+  },
+  {
+    "title":"Heretic",
+    "budget":10000000.0,
+    "revenue":51913394.0,
+    "profit":41913394.0,
+    "ROI":419.13394
+  },
+  {
+    "title":"Death of a Unicorn",
+    "budget":15000000.0,
+    "revenue":15983827.0,
+    "profit":983827.0,
+    "ROI":6.5588466667
+  },
+  {
+    "title":"Opus",
+    "budget":10000000.0,
+    "revenue":2183539.0,
+    "profit":-7816461.0,
+    "ROI":-78.16461
+  },
+  {
+    "title":"Warfare",
+    "budget":20000000.0,
+    "revenue":31896828.0,
+    "profit":11896828.0,
+    "ROI":59.48414
+  },
+  {
+    "title":"Trying to drink the most orange soda in under a minute and 30 seconds",
+    "budget":5.0,
+    "revenue":5.0,
+    "profit":0.0,
+    "ROI":0.0
+  },
+  {
+    "title":"Wicked: Episode IV \u2014 The Rift of Oz",
+    "budget":128.0,
+    "revenue":2.0,
+    "profit":-126.0,
+    "ROI":-98.4375
+  },
+  {
+    "title":"Birds of a Feather Flock Together",
+    "budget":100.0,
+    "revenue":20.0,
+    "profit":-80.0,
+    "ROI":-80.0
+  }
+]

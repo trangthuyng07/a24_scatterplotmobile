@@ -1,0 +1,14 @@
+{
+  "name": "d1e1e3d70e6e6d89",
+  "main": "d1e1e3d70e6e6d89@49.js",
+  "version": "49.0.0",
+  "homepage": "https://observablehq.com/d/d1e1e3d70e6e6d89",
+  "author": {
+    "name": "trangthuy",
+    "url": "https://observablehq.com/@trangthuy"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
