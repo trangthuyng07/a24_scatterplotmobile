@@ -1,14 +1,29 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>Untitled</title>
-<link rel="stylesheet" type="text/css" href="./inspector.css">
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>A24 Packed Bubble</title>
+  <link rel="stylesheet" href="./inspector.css">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+    }
+  </style>
+</head>
 <body>
-<script type="module">
+  <script type="module">
+    import define from "./index.js";
+    import {Runtime, Inspector} from "./runtime.js";
 
-import define from "./index.js";
-import {Runtime, Library, Inspector} from "./runtime.js";
-
-const runtime = new Runtime();
-const main = runtime.module(define, Inspector.into(document.body));
-
-</script>
+    const runtime = new Runtime();
+    // Chỉ hiện cell tên "chart"
+    runtime.module(define, name => {
+      if (name === "chart") return Inspector.into(document.body)();
+      return true; // Bỏ qua cell khác → không hiển thị d3, data, runtimeData
+    });
+  </script>
+</body>
+</html>
