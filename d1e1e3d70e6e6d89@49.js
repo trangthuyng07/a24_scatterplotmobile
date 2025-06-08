@@ -66,7 +66,7 @@ function _chart(d3,data)
     .attr("x", width / 2)
     .attr("y", height - 15)
     .attr("text-anchor", "middle")
-    .style("font-size", "12px")
+    .style("font-size", "10px")
     .text("Budget (in millions)");
 
   svg.append("text")
@@ -74,7 +74,7 @@ function _chart(d3,data)
     .attr("x", -height / 2)
     .attr("y", 20)
     .attr("text-anchor", "middle")
-    .style("font-size", "12px")
+    .style("font-size", "10px")
     .text("Revenue (in millions)");
 
   // Tooltip
@@ -86,7 +86,7 @@ function _chart(d3,data)
   const tooltipText = tooltipGroup.append("text")
     .attr("x", 10).attr("y", 20)
     .attr("fill", "white")
-    .style("font-size", "12px");
+    .style("font-size", "10px");
 
   const bubbles = svg.append("g")
     .selectAll("circle")
