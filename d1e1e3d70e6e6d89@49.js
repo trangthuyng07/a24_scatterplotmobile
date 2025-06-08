@@ -176,14 +176,15 @@ function _chart(d3,data)
     .style("fill", "url(#legend-gradient)");
 
   legend.append("g")
-    .attr("transform", `translate(-14, 0)`)
-    .call(legendAxis);
+  .attr("transform", `translate(${legendWidth}, 0)`)
+  .call(legendAxis)
+  .call(g => g.selectAll("text").attr("x", -6).style("text-anchor", "end")); // ⬅ Dịch label số sang trái
 
   legend.append("text")
-    .attr("x", -10)
+    .attr("x", 5)
     .attr("y", legendHeight + 20)
     .style("font-size", "10px")
-    .style("text-anchor", "end")
+    .style("text-anchor", "start")
     .text("R.O.I.");
 
   return svg.node();
